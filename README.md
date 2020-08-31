@@ -1,4 +1,6 @@
 # Unbounded Channel
+**Note**: Please note that this was meant to be a simple demonstration of the ABA problem. I didn't find the time to complete the blog post but you should avoid using this as a lib or something!
+
 A simple lock-free implementation of an unbounded channel in Go.
 
 ## How to Use
